@@ -1,0 +1,16 @@
+
+
+General Assemblyssa opiskeltua:
+
+H1-h6, email input, submit input, p, placeholder, style, 
+body, head, title, text-align, background, font-family, color, 
+img, background-size, font-size, border, padding, 
+attribute selectors, header, li, a, ul, link, 
+display, margin, border-radius, padding 2, max-width, 
+article, margin: 0 auto;, script, on(), button, alert(), 
+hex color, media queries, rgba color, class, position: relative, height, 
+bottom, div, small, line break, class, position: absolute, span, 
+float, gradient, span, transition, opacity, toggleClass, radial-gradient, 
+top, left, transform: scaleY, animation, @keyframes, variable, Math.floor, 
+Math.random, function, javascript comments, click function, toggle, 
+css function, strings, array, length, html function, if, else, !, val(), push(), hide()
